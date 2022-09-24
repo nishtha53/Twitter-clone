@@ -6,7 +6,9 @@
     margin: 0;
     font-family: 'Source Sans Pro', sans-serif;
 }
-
+html {
+    scroll-behavior: smooth;
+  }
 .container{
     display: grid;
     grid-template-columns: 26% 39% 35%;
